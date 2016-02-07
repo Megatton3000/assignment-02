@@ -6,12 +6,12 @@ please turn in by 11pm on 2016-02-27
   effects of bias on population segregation.
 
 - The goal of this project is to get some practice with multiple file projects,
-  pointers, and (above all) beginning to intermediate level classes.
+  pointers, and (above all) beginning to shift to intermediate level classes.
 
 
 **This project may take a lot of time.  Please plan accordingly.  Also, this
 project may contain wording you are not yet used to.  Please be patient while
-working out what it means, as feel free to ask me if you need help.**
+working out what it means, also feel free to ask me if you need help.**
 
 
 ## Requirements
